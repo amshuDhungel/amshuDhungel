@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.djangoproject.com" target="_blank"> <img src ="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src ="https://www.bing.com/th?id=A6dd7d857a8aacd62442b515b407dbaf9&w=110&h=110&c=7&rs=1&qlt=80&o=6&dpr=1.25&pid=SANGAM"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
